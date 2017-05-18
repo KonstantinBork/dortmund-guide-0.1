@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+   	android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+	<ScrollView
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent">    
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+		android:orientation="vertical"
+   		android:layout_width="fill_parent"
+    	android:layout_height="fill_parent"
+    	>
+    	
+		<Button
+			android:id="@+id/rkirche"
+			android:layout_width="fill_parent"
+			android:text="@string/reinoldikirche"
+			android:layout_height="100dip">
+			</Button>
+
+		<Button
+			android:id="@+id/stadion"
+			android:layout_width="fill_parent"
+			android:text="@string/stadion"
+			android:layout_height="100dip">
+			</Button>
+		
+			<Button
+			android:id="@+id/westfalenpark"
+			android:layout_width="fill_parent"
+			android:text="@string/westfalenpark"
+			android:layout_height="100dip">
+			</Button>
+		
+			<Button
+			android:id="@+id/westfalenhallen"
+			android:layout_width="fill_parent"
+			android:text="@string/westfalenhallen"
+			android:layout_height="100dip">
+			</Button>
+		
+			<Button
+			android:id="@+id/zoo"
+			android:layout_width="fill_parent"
+			android:text="@string/zoo"
+			android:layout_height="100dip">
+			</Button>
+		</LinearLayout>
+	</ScrollView>
+</LinearLayout>

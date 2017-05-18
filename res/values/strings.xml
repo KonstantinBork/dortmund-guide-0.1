@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dortmund Guide</string>
+    <string name="start">Start</string>
+    <string name="reinoldikirche">Reinoldikirche</string>
+    <string name="stadion">Signal-Iduna-Park</string>
+    <string name="westfalenpark">Westfalenpark</string>
+    <string name="westfalenhallen">Westfalenhallen</string>
+    <string name="zoo">Dortmund Tierpark</string>
+</resources>
